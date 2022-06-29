@@ -1,0 +1,20 @@
+{
+  "Chipseq.Annotation": "/storage1/fs1/dspencer/Active/spencerlab/refdata/mouse/mm10/gencode.vM25.basic.annotation.gtf",
+  "Chipseq.Reference": "/storage1/fs1/dspencer/Active/spencerlab/refdata/mouse/mm10/mm10.fa",
+  "Chipseq.Dictionary": "/storage1/fs1/dspencer/Active/spencerlab/refdata/mouse/mm10/mm10.dict",
+  "Chipseq.ReferenceIndex": "/storage1/fs1/dspencer/Active/spencerlab/refdata/mouse/mm10/mm10.fa.fai",
+  "Chipseq.Blacklist": "/storage1/fs1/dspencer/Active/spencerlab/refdata/mouse/mm10/mm10.blacklist.bed.gz",
+  "Chipseq.Queue": "timley",
+  "Chipseq.JobGroup": "/dspencer/chipseq",
+  "Chipseq.AlignedReads": "",
+  "Chipseq.AlignedReadsReference": "",
+  "Chipseq.Fastq1": "",
+  "Chipseq.Fastq2": "",
+  "Chipseq.Name": "",
+  "Chipseq.OutputDir": "",
+  "Chipseq.ID": "",
+  "Chipseq.SM": "",
+  "Chipseq.LB": "",
+  "Chipseq.PU": "",
+  "Chipseq.PL": "illumina"
+}

@@ -1,0 +1,21 @@
+{
+    "DragenSomaticWGS.Fastq1": "File",
+    "DragenSomaticWGS.Fastq2": "File",
+    "DragenSomaticWGS.TumorFastq1": "File",
+    "DragenSomaticWGS.TumorFastq2": "File",
+    "DragenSomaticWGS.ID": "String",
+    "DragenSomaticWGS.SM": "String",
+    "DragenSomaticWGS.LB": "String",
+    "DragenSomaticWGS.PU": "String",
+    "DragenSomaticWGS.TumorID": "String",
+    "DragenSomaticWGS.TumorSM": "String",
+    "DragenSomaticWGS.TumorLB": "String",
+    "DragenSomaticWGS.TumorPU": "String",
+    "DragenSomaticWGS.Name": "String",
+    "DragenSomaticWGS.OutputDir": "String",
+    "DragenSomaticWGS.Reference": "/staging/runs/Chromoseq/refdata/dragen384_hg38_cnv",
+    "DragenSomaticWGS.DOCM": "/staging/runs/Chromoseq/dragen_align_inputs/hg38/docm.vcf.gz",
+    "DragenSomaticWGS.DBSNP": "/staging/runs/Chromoseq/dragen_align_inputs/hg38/dbsnp.vcf.gz",
+    "DragenSomaticWGS.Queue": "oncology",
+    "DragenSomaticWGS.JobGroup": "/dspencer/testing"
+}

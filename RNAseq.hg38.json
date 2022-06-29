@@ -1,0 +1,19 @@
+{
+    "RNAseq.ReferenceDir": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/STAR",
+    "RNAseq.Reference": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/all_sequences.fa",
+    "RNAseq.rRNA_intervals": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/hg38_rRNA.intervals",
+    "RNAseq.Annotation": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/gencode.v29.annotation.gtf",
+    "RNAseq.RefFlat": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/hg38.refFlat.txt",
+    "RNAseq.OutputDir": "",
+    "RNAseq.Name": "",
+    "RNAseq.SM": "",
+    "RNAseq.ID": "",
+    "RNAseq.LB": "",
+    "RNAseq.PU": "",
+    "RNAseq.Fastq1": "",
+    "RNAseq.Fastq2": "",
+    "RNAseq.AlignedReads": "",
+    "RNAseq.AlignedReadsReference": "",
+    "RNAseq.Queue": "timley",
+    "RNAseq.JobGroup": "/dspencer/rnaseq"
+}

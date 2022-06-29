@@ -1,0 +1,20 @@
+{
+  "Chipseq.Annotation": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/gencode.v29.basic.annotation.gtf",
+  "Chipseq.Reference": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/all_sequences.fa",
+  "Chipseq.Dictionary": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/all_sequences.dict",
+  "Chipseq.ReferenceIndex": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/all_sequences.fa.fai",
+  "Chipseq.Blacklist": "/storage1/fs1/dspencer/Active/spencerlab/refdata/hg38/hg38.blacklist.merged.bed",
+  "Chipseq.Queue": "timley",
+  "Chipseq.JobGroup": "/dspencer/chipseq",
+  "Chipseq.AlignedReads": "",
+  "Chipseq.AlignedReadsReference": "",
+  "Chipseq.Fastq1": "",
+  "Chipseq.Fastq2": "",
+  "Chipseq.Name": "",
+  "Chipseq.OutputDir": "",
+  "Chipseq.ID": "",
+  "Chipseq.SM": "",
+  "Chipseq.LB": "",
+  "Chipseq.PU": "",
+  "Chipseq.PL": "illumina"
+}
