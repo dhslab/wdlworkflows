@@ -300,11 +300,11 @@ task flagstat {
 
 
   output {
-    File fsOut = "~{label}.flagstat.out"
+    File fsOut = "~{label}.flagstat.txt"
   }
   command <<<
 
-    /usr/local/bin/samtools flagstat ~{in} > "~{label}.flagstat.out"
+    /usr/local/bin/samtools flagstat ~{in} > "~{label}.flagstat.txt"
   
   >>>
   runtime {
